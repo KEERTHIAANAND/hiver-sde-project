@@ -1,0 +1,5 @@
+pandas
+jupyterlab
+tqdm
+python-dotenv
+scikit-learn
